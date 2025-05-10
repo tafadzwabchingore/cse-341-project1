@@ -1,0 +1,22 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tafadzwabchingore/cse-341-project1.git"
+  },
+  "author": "Tafadzwa Betserai Chingore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tafadzwabchingore/cse-341-project1/issues"
+  },
+  "homepage": "https://github.com/tafadzwabchingore/cse-341-project1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
